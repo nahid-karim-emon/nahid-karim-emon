@@ -1,27 +1,83 @@
-<h1 align="center">Hi 👋, I'm Nahid Karim Emon</h1>
-<h3 align="center">A passionate Competitive Programmer</h3>
+<div align="center">
+  <h1>Hi there, I'm Nahid Karim Emon 👋</h1>
+  <h3>Software Engineer (.NET) | Competitive Programmer | Researcher</h3>
+  
+  <p>
+    <a href="https://github.com/nahid-karim-emon">
+      <img src="https://komarev.com/ghpvc/?username=nahid-karim-emon&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+    </a>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahid-karim-emon&label=Profile%20views&color=0e75b6&style=flat" alt="nahid-karim-emon" /> </p>
+  <p>
+    <a href="mailto:nahidkarimemon@gmail.com">
+      <img src="https://img.shields.io/badge/Email-nahidkarimemon%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/nahid-karim-emon-061619238">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://codeforces.com/profile/N_K_E_1">
+      <img src="https://img.shields.io/badge/Codeforces-Expert-445f9d?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahid-karim-emon" alt="nahid-karim-emon" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 👨‍💻 **About Me**
 
-- 🔭 I’m currently working on **Service Shared**
+I am a **Computer Science Graduate** (CGPA 3.75) with a passion for building scalable backend systems and solving complex algorithmic challenges. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nahid-karim-emon-061619238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahid-karim-emon-061619238" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nahid_103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nahid_103" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nahidkarimemon19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nahidkarimemon19" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nahid_180103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nahid_180103" height="30" width="40" /></a>
+- 🔭 **Current Focus:** Enterprise Backend Development using **.NET Core** & **Clean Architecture**.
+- 🧠 **Problem Solving:** Solved **2,150+** problems across Codeforces, LeetCode, and CodeChef.
+- 🏆 **Achievements:** 3x **ICPC Asia Regional Finalist**.
+- 🔬 **Research:** Author of *HRecSys++* (Accepted at **IEEE SPICSCON 2025**).
+
+---
+
+### 🛠 **Technical Arsenal**
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cs,cpp,python,php,js,sql" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,laravel,django" /> |
+| **Database & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" /> |
+
+---
+
+### 📂 **Featured Projects**
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Inventory Management System](https://github.com/nahid-karim-emon/InventoryManagementSystem)** | Enterprise backend for managing products and sales. Implements **CQRS**, **Clean Architecture**, and **Redis Caching**. | `.NET 8`, `PostgreSQL`, `Redis` |
+| **[HRecSys++](https://github.com/nahid-karim-emon/Movie_Recommendation-KMeans-)** | Hybrid Movie Recommendation System using **K-Means Clustering** implemented natively without Python dependencies. | `PHP`, `Laravel`, `Machine Learning` |
+| **[Service Share](https://github.com/nahid-karim-emon/service-share)** | A full-stack local service marketplace connecting professionals with customers. | `Laravel`, `MySQL`, `Bootstrap` |
+
+---
+
+### 🏆 **Competitive Programming Profile**
+
+| Platform | Rank | Max Rating | Profile Link |
+| :--- | :--- | :--- | :--- |
+| **Codeforces** | <b style="color:#03A9F4">Expert</b> | **1809** | [N_K_E_1](https://codeforces.com/profile/N_K_E_1) |
+| **CodeChef** | <b style="color:#9C27B0">4 Star</b> | **1931** | [nahid_103](https://www.codechef.com/users/nahid_103) |
+| **LeetCode** | <b style="color:#FF9800">Knight</b> | **2111** | [nahid_180103](https://leetcode.com/nahid_180103/) |
+
+---
+
+### 📊 **GitHub Analytics**
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahid-karim-emon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-karim-emon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-karim-emon&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-karim-emon&show_icons=true&locale=en&layout=compact" alt="nahid-karim-emon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahid-karim-emon&show_icons=true&locale=en" alt="nahid-karim-emon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-karim-emon&" alt="nahid-karim-emon" /></p>
+<!-- <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nahid-karim-emon&theme=flat&no-frame=true&margin-w=15" alt="trophy" />
+  </a>
+</p> -->

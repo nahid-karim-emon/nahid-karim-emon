@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Nahid Karim Emon 👋</h1>
-  <h3>Software Engineer (.NET) | Competitive Programmer | Researcher</h3>
+  <h3>Backend Software Engineer | Competitive Programmer | Researcher</h3>
   
   <p>
     <a href="https://github.com/nahid-karim-emon">
@@ -11,6 +11,9 @@
   <p>
     <a href="mailto:nahidkarimemon@gmail.com">
       <img src="https://img.shields.io/badge/Email-nahidkarimemon%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+    </a>
+    <a href="https://nahid-karim-emon.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Website-14a39a?style=flat-square&logo=google-earth" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/nahid-karim-emon-061619238">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
@@ -25,12 +28,13 @@
 
 ### 👨‍💻 **About Me**
 
-I am a **Computer Science Graduate** (CGPA 3.75) with a passion for building scalable backend systems and solving complex algorithmic challenges. 
+I am a **Backend Software Engineer** (B.Sc. CSE, CGPA 3.75) with a passion for building scalable enterprise systems and solving complex algorithmic challenges. 
 
-- 🔭 **Current Focus:** Enterprise Backend Development using **.NET Core** & **Clean Architecture**.
+- 💼 **Currently:** Junior Software Engineer at Technonext Software Limited (Cartup.com Logistics Platform).
+- 🔭 **Current Focus:** Enterprise Backend Development (`.NET Core`, `Raw PHP`, `Clean Architecture`, `Microservices`).
 - 🧠 **Problem Solving:** Solved **2,150+** problems across Codeforces, LeetCode, and CodeChef.
 - 🏆 **Achievements:** 3x **ICPC Asia Regional Finalist**.
-- 🔬 **Research:** Author of *HRecSys++* (Accepted at **IEEE SPICSCON 2025**).
+- 🔬 **Research:** Author of *HRECSYS++* (Accepted at **IEEE SPICSCON 2025**).
 
 ---
 
@@ -38,9 +42,9 @@ I am a **Computer Science Graduate** (CGPA 3.75) with a passion for building sca
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=cs,cpp,python,php,js,sql" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cs,cpp,php,python,java,js,sql" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,laravel,django" /> |
-| **Database & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux" /> |
+| **Database & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,linux" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" /> |
 
 ---
@@ -49,9 +53,10 @@ I am a **Computer Science Graduate** (CGPA 3.75) with a passion for building sca
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Inventory Management System](https://github.com/nahid-karim-emon/InventoryManagementSystem)** | Enterprise backend for managing products and sales. Implements **CQRS**, **Clean Architecture**, and **Redis Caching**. | `.NET 8`, `PostgreSQL`, `Redis` |
-| **[HRecSys++](https://github.com/nahid-karim-emon/Movie_Recommendation-KMeans-)** | Hybrid Movie Recommendation System using **K-Means Clustering** implemented natively without Python dependencies. | `PHP`, `Laravel`, `Machine Learning` |
-| **[Service Share](https://github.com/nahid-karim-emon/service-share)** | A full-stack local service marketplace connecting professionals with customers. | `Laravel`, `MySQL`, `Bootstrap` |
+| **[Inventory Management System (.NET)](https://github.com/nahid-karim-emon/InventoryManagementSystem)** | Enterprise-grade backend for managing products and sales. Implements **CQRS**, **Clean Architecture**, and **Redis Caching** to reduce query latency by 40%. | `.NET Core`, `PostgreSQL`, `Redis` |
+| **[Inventory CQRS (Raw PHP)](https://github.com/nahid-karim-emon/Inventory-CQRS-PHP)** | Scalable layered REST API for inventory operations. Features a custom Command/Query Bus, strict typing, JWT RBAC, and Redis event publishing. | `PHP 8+`, `CQRS`, `Redis`, `MySQL` |
+| **[CyberSecurity-Lab](https://nowsin.me)** | A Laravel-based cybersecurity learning lab with practical modules and a production deployment for hands-on security practice. | `Laravel`, `JavaScript`, `MySQL` |
+| **[HRecSys++](https://github.com/nahid-karim-emon/Movie_Recommendation-KMeans-)** | Hybrid Movie Recommendation System using **K-Means Clustering** and Content-Based Filtering implemented natively without Python dependencies. | `PHP`, `Machine Learning` |
 
 ---
 
@@ -67,17 +72,11 @@ I am a **Computer Science Graduate** (CGPA 3.75) with a passion for building sca
 
 ### 📊 **GitHub Analytics**
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahid-karim-emon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-karim-emon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahid-karim-emon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-karim-emon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="languages" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-karim-emon&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
-
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nahid-karim-emon&theme=flat&no-frame=true&margin-w=15" alt="trophy" />
-  </a>
-</p> -->
